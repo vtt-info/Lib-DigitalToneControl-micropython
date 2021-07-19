@@ -1,1 +1,17 @@
 # Lib-DigitalToneControl-micropython
+Support:
+- PT2313
+- PT2314
+- TDA7303
+- TDA7309
+- TDA7318
+- TDA7430
+- TDA7431
+- TDA7432
+- TDA7433
+- TDA7434
+- TDA7438
+- TDA7439
+- TDA7440
+- TDA7442
+- TDA7443
